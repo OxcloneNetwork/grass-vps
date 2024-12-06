@@ -32,7 +32,7 @@ cd grass-bot
 ls
 ```
 ```yaml
-python3 -n venv venv
+python3 -m venv venv
 ```
 # ACTIVATE SOURCE
 ```yaml
