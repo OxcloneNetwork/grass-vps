@@ -62,6 +62,9 @@ go to grass dashboard and click on f12 and navigate to application, click on loc
 # ENTER THE NUMBER OF PROXY 
 The number of proxy you paste in the nano file.
 
+- JOIN TELEGRAM IF YOU NEED HELP : https://t.me/OxcloneNetwork
+- fOLLOW US ON X FOR MORE UPDATE : https://x.com/OxcloneNetwork
+
 
 
 
